@@ -1,3 +1,12 @@
 sample
 welcome
+<<<<<<< Updated upstream
 stash
+=======
+stash
+stash 2
+rhymes
+ex
+ok
+>>>>>>> Stashed changes
+ 
